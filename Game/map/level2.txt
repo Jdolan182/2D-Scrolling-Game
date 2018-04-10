@@ -1,0 +1,48 @@
+72 27 64 64
+// The first line should contain the width and height of the
+// map and the width and height of each tile. A list of character to
+// tile mappings is then provided where each character is preceded by a
+// # character. The dot character always defaults to a blank space 
+// Note that the referenced files should be in the same directory as the
+// tile map.
+#u=Floor.png
+#l=RightFloor.png
+#r=LeftFloor.png
+#b=LeftUpFloor.png
+#d=RightUpFloor.png
+#f=LeftCornerFloor.png
+#h=RightCornerFloor.png
+#w=CenterFloor.png
+#n=Chest.png
+// The actual tile map is preceded by the #map line
+#map
+d.........................buuuud....................................buuu
+l.........................rwwwwl....................................rwww
+l.........................rwwwwl....................................rwww
+l.........................rwwwwl....................................rwww
+l.........................rwwwwl....................................rwww
+huuuuuuud.................rwwwwl...............................n....rwww
+wwwwwwwwl.................rwwwwl.......buuuuuuuuuuuuuuuuuuuuuuuuuuuufwww
+wwwwwwwwl.................rwwwwl.......rwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww
+wwwwwwwwl.................rwwwwhd......rwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww
+wwwwwwwwl.................rwwwwwl......rwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww
+wwwwwwwwhd................rwwwwl.....bufwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww
+wwwwwwwwwl................rwwwwl.....rwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww
+wwwwwwwwwl........buud....rwwwwwd.............................rwwwwwwwww
+wwwwwwwwwl........rwwl....rwwwwwl....................................rww
+wwwwwwwwwhuuuuuuuufwwl....rwwwwwhuuuuuuuuuuuuuuuuuuuuuud.............rww
+wwwwwwwwwwwwwwwwwwwwwl....rwwwwwwwwwwwwwwwwwwwwwwwwwwwwl.............rww
+wwwwwwwwwwwwwwwwwwwwwl....rwwwwwwwwwwwwwwwwwwwwwwwwwwwwl......buuuuuufww
+wwwwwwwwwwwwwwwwwwwwwl........................................rwwwwwwwww
+wwwwwwwwwwwwwwwwwwwwwl....................................buuufwwwwwwwww
+wwwwwwwwwwwwwwwwwwwwwl....................................rwwwwwwwwwwwww
+wwwwwwwwwwwwwwwwwwwwwhuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuufwwwwwwwwwwwww
+wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww
+wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww
+wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww
+wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww
+wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww
+wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww
+wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww
+
+
